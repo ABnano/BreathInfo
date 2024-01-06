@@ -1,5 +1,7 @@
  # Overview
 BreathInfo contains the code and documentation for a comprehensive regression analysis of respiratory signals using various machine-learning algorithms. The analysis facilitates the early prediction of respiratory disease biomarkers, facilitating to taking of proactive measures to prevent the diseases. 
+![breathinfo](https://github.com/ABnano/BreathInfo/assets/72018919/d60e9b0a-917d-4905-9c41-04ef9d14ce79)
+
 
 # Algorithms and Technologies Used
 	Random Forest Regression (RFR): Implemented in Python using libraries such as NumPy and Matplotlib. The dataset underwent preprocessing, one-hot encoding, and was split into training and testing sets.
